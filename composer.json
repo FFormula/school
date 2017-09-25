@@ -1,0 +1,13 @@
+{
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "config": {
+        "fxp-asset": {
+            "installer-paths":{
+                "bower-asset-library": "vendor/bower"
+            }
+        }
+    }
+
+}
