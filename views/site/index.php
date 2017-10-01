@@ -1,1 +1,1 @@
-<h2>Video School</h2>
+<h2>Welcome!</h2>
