@@ -1,1 +1,3 @@
-<h2>Welcome!</h2>
+<h2>
+    <?= Yii::t('app', 'Welcome!') ?>
+</h2>
