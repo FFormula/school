@@ -1,7 +1,7 @@
 <?php 
 $I = new AcceptanceTester($scenario);
 $I->wantTo('Проверка языков');
-$I->amOnPage('/');
+$I->amOnPage('/en');
 $I->see('Video School');
 
 $I->amOnPage('/en');
